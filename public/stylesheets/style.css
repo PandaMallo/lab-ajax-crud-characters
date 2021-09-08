@@ -54,6 +54,10 @@ button {
   background-color: #42f471;
 }
 
+.des-active {
+  background-color: #ff0202;
+}
+
 .operations {
   margin: 0 auto;
   padding: 5px;
